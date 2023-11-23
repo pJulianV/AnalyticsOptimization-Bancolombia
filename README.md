@@ -1,5 +1,4 @@
 # AnalyticsOptimization-Bancolombia
-Repositorio para el proyecto de optimización de la experiencia analítica en Bancolombia. Incluye análisis de uso, generación de informes personalizados y modelos de similitud en Python y SQL
 
 Para generar modelos de datos y análisis sobre el uso de la herramienta anlitica en Bancolombia (LZ) utilizando Python y SQL:
 
