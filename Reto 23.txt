@@ -1,0 +1,22 @@
+¿Cómo generar modelos de datos y analiticos sobre el uso de la
+herramienta anlitica en bancolombia (LZ)?
+
+¿De qué se trata el reto?
+
+Generarás Informes personalizados para cada uno de los usuarios con
+acceso a la LZ sobre el consumo que hacen sobre la plataforma, su 
+comparación con otros equipos y que impacto están generando a la 
+plataforma. Para esto es necesario utilizar SQL, Python para consumir los 
+querys ejecutados por los usuarios, la generación de estadísticas (SQL) y 
+Python para la generación automatización y envió de los informes y 
+reportes. Ademas se busca generar un modelo analitico que analice los 
+querys lanzados por cada uno delos usuarios y genre un indicador de 
+similitud con otros querys lanzados por el mismo usuario, para concluir por 
+usuario si esta haciendo un mal uso de plataforma.
+
+
+¿Qué te hará exitosa/o?
+
+
+* Programación en SQL y Python
+* Conocimientos basicos de construccion de modelos analiticos de ML e IA.
